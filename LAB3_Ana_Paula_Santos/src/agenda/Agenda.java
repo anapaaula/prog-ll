@@ -5,6 +5,7 @@ import java.util.NoSuchElementException;
 /**
  * Uma agenda que mantém uma lista de contatos com posições. Podem existir 100 contatos. 
  * 
+ * @author Ana Paula
  * @author nazareno
  * 
  */
