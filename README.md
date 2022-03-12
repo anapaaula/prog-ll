@@ -1,1 +1,1 @@
-Sem correção.
+Sem correções.
